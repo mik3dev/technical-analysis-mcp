@@ -1,5 +1,5 @@
 {
-  "name": "@mike3dev/technical-analysis-mcp",
+  "name": "technical-analysis-mcp",
   "version": "1.0.0",
   "description": "A Model Context Protocol (MCP) server that provides technical analysis of financial charts using AI vision capabilities.",
   "main": "index.js",
@@ -24,5 +24,8 @@
   "devDependencies": {
     "@types/node": "^22.14.1",
     "typescript": "^5.8.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
