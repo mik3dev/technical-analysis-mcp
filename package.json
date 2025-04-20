@@ -1,13 +1,13 @@
 {
-  "name": "technical_analysis",
+  "name": "@mike3dev/technical-analysis-mcp",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Model Context Protocol (MCP) server that provides technical analysis of financial charts using AI vision capabilities.",
   "main": "index.js",
   "scripts": {
     "build": "tsc && chmod 755 build/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "mik3dev",
   "license": "ISC",
   "type": "module",
   "bin": {
